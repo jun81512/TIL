@@ -7,7 +7,7 @@
 - 설치
     1. [VS Code](https://code.visualstudio.com/ "VS Code 다운로드 주소") 접속 후 OS에 맞는 설치 파일 다운
     2. 설치 파일 실행 및 설치
-    3. 필요에 따라 Extensions 탭에서 ?, ? 검색 후 설치
+    3. 필요에 따라 Extensions 탭에서 ?, ?(영상시청이 불가능해서 내일 확인 후 수정하겠습니다.) 검색 후 설치
 
 - 사용
     1. workspace 폴더 생성
