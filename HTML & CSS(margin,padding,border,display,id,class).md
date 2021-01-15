@@ -1,4 +1,4 @@
-# HTML & CSS
+# HTML & CSS(margin,padding,border,display,id,class)
 ## 2021-01-14 (목)
 ---
 ## 코코아톡 클론 코딩 (#1.0 ~ #3.9)
