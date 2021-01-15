@@ -10,6 +10,7 @@
         - 부모의 display가 flex이면 자식들이 block이어도 옆으로 정렬시킬수 있다.
         - justyfy-content : center, flex-end, flex-start(default), space-evenly(빈 공간을 같은 크기로 나누어서 배치), space-around, space-between 등 자동으로 공간을 계산해서 배치해준다.
     2. 주축(main axis), 교차축(cross axis)<br/>
+    ![주축, 교차축](https://cms-assets.tutsplus.com/uploads/users/30/posts/30183/image/axes.png){300, 150}
 <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/30183/image/axes.png" width="300" height="150">
         - main axis는 수평, cross axis는 수직을 기본값으로 가진다.(수정 가능)
         - justify-content는 주축, align-item은 교차축을 조정한다.
