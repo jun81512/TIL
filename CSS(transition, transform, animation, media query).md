@@ -60,7 +60,7 @@
     ```
     ```html
     <style>
-    @@keyframes 애니메이션명{
+    @keyframes 애니메이션명{
         0%{
             transform: rotateX(0);	
         }
