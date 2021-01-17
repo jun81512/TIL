@@ -1,4 +1,4 @@
-# HTML & CSS(margin,padding,border,display,id,class)
+# JS
 ## 2021-01-17 (일)
 ---
 ## JavaScript for Web Developer
