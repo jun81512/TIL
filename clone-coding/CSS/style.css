@@ -1,0 +1,14 @@
+@import "reset.css"; /* 리셋 css : 브라우저가 설정한 css를 제거 */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+@import "variables.css";
+
+/* Componenets */
+@import "components/status-bar.css";
+
+/* Screens */
+@import "screens/login.css";
+
+/* 모든 스타일에 적용되는 CSS */
+body {
+  font-family: "Open Sans", sans-serif;
+}
