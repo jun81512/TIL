@@ -28,6 +28,10 @@
        - 원하는 아이콘을 복사 후 붙여넣기하여 사용
      - [FontAwesome](https://fontawesome.com/)
        - javascript import한 후 `<i>`태그를 이용하여 사용
+### 실핼화면
+![실행화면](clone-coding/images/20210118실행.png)
+
+### 코드
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -317,4 +321,3 @@ input:focus{
     --yellow: #fae100;
 }
 ```
-![실행화면](clone-coding/images/20210118실행.png)
