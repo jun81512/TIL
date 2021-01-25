@@ -35,3 +35,17 @@
     right: -8px;
     bottom: 25px;
 }
+.nav__notification3{
+    background-color: tomato;
+    width: 10px;
+    height: 10px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    position: absolute;
+    right: -8px;
+    bottom: 20px;
+}
