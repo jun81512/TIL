@@ -151,6 +151,7 @@
   1. cmd에서 react 앱이 설치되어 있는 경로로 이동
   2. (cmd) **npm i prop-types** 입력
 - propTypes를 통한 타입 확인을 통해 많은 버그를 잡을 수 있다.
+- [더 많은 설정 확인](https://reactjs.org/docs/typechecking-with-proptypes.html)
     ```javascript
     import React from 'react';
     //propTypes를 import 시킨 후
