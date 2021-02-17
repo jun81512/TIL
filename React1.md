@@ -46,9 +46,9 @@
 ---
 ## React
 
-- function 방식과 class 방식이 있다. 
-- class방식 권장, 단순 return(render)만 있을 경우 function 사용
-- state를 사용할 경우 class방식 사용
+- function 방식과 class 방식으로 나뉨
+  - class방식 권장, 단순 return(render)만 있을 경우 function 사용
+  - state를 사용할 경우 class방식 사용
     ``` javascript
     // function
     import React from 'react';
